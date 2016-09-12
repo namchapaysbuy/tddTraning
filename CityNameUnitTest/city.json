@@ -1,0 +1,14 @@
+﻿{
+  "cities": [
+    {
+      "code": "th",
+      "country": "Thailand",
+      "name": "bangkok"
+    },
+    {
+      "code": "jp",
+      "country": "Japan",
+      "name": "tokyo"
+    }
+  ]
+}
